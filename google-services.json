@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "211563160794",
+    "firebase_url": "https://test-projeto-push-notification.firebaseio.com",
+    "project_id": "test-projeto-push-notification",
+    "storage_bucket": "test-projeto-push-notification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211563160794:android:4ea087b85d07d2fd",
+        "android_client_info": {
+          "package_name": "br.com.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211563160794-8011e6gsdd93ajftu3m4mn7uvvn5er1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKiN2y5tSl59l5_WnqmrMnJdUJHRwdFG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211563160794-8011e6gsdd93ajftu3m4mn7uvvn5er1h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "211563160794-odk0citk26ul1oql08mppavvmo180ijb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.pushnotification"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
